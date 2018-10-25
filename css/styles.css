@@ -1,0 +1,52 @@
+body {
+	margin: 5%;
+	font-size: 20px;
+}
+
+header {
+	text-align: center;
+}
+
+.authors {
+	font-size: large;
+	margin-top: -1.5%;;
+}
+
+.copyright {
+	margin-top: 2%;
+	font-weight: bold;
+}
+
+.center {
+	text-align: center;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+.bold {
+	font-weight: bold;
+}
+.italic-underline{
+	font-style: italic;
+	text-decoration: underline;
+}
+
+.image1{
+	float: left;
+	padding-right: 3%;
+}
+
+.bold-italic{
+	font-style: italic;
+	font-weight: bold;
+}
+
+.right{
+	text-align: right;
+}
+
+.fig{
+	text-align: center;
+}
